@@ -3,4 +3,5 @@ a promodoro
 
 
 # task 2
-Matrix
+Matrix 
+Algorithms not choosen yet
