@@ -34,5 +34,5 @@ Then, there are three option to choose:
 
 Enter the corresponding number to use the function. For Option 1, user can check the connection of the node they choose.  
 
-For option 2, user can check the shortest distance from a node to an other node. For example, A->B,C, B->D. We want to obtain the shortest distance from A to D. The programme will return A,B,D as result.  
+For option 2, user can check the shortest distance from a node to an other node. For example, [A->B,C] , [B->D] . We want to obtain the shortest distance from A to D. The programme will return A,B,D as result.  
 
