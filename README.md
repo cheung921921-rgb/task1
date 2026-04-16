@@ -20,4 +20,19 @@ After backward pass: [1, 2, 3, 4, 5]
 After forward pass: [1, 2, 3, 4, 5]  
 Final sorted list: [1, 2, 3, 4, 5]  
 
+## Graph
+
+The script allows user to create a graph with 5 customized nodes and edges.  
+
+First, user have to enter the name of 5 nodes.  
+After that, user has to connect the nodes(Below image shows how it works), it can also not connected to any nodes.  
+
+Then, there are three option to choose:
+1. Check connection
+2. Check shortest distance from node to node
+3. exit programme
+
+Enter the corresponding number to use the function. For Option 1, user can check the connection of the node they choose.  
+
+For option 2, user can check the shortest distance from a node to an other node. For example, A->B,C, B->D. We want to obtain the shortest distance from A to D. The programme will return A,B,D as result.  
 
