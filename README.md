@@ -1,6 +1,23 @@
 # task1
 a promodoro
+Upon launching, the program will display a main menu. Enter a number from 1 to 5 to select your desired function:
 
+1. Start Pomodoro (Default)
+Initiates a standard Pomodoro session. This consists of 25 minutes of focus time followed by a 5-minute break, repeating for a total of 4 rounds.
+
+2. Start Custom Pomodoro
+Allows you to customize your timer. You will be prompted to enter your preferred focus duration (in minutes), break duration (in minutes), and the total number of rounds.
+(Note: Please enter integer numbers only to prevent errors.)
+
+3. Add Event
+Adds a new task or meeting to your schedule. The system will ask for the event name, date (year, month, day), start time (hour, minute), and the duration of the event.
+(Note: Please ensure the date and time entered are valid, e.g., avoiding dates like February 30th.)
+
+4. View Calendar
+Displays all your scheduled events in chronological order (from earliest to latest). If no events have been added, the system will notify you that the schedule is currently empty.
+
+5. Exit
+Safely closes the application. (You can also type q or exit to quit the program).
 
 # Task 2
 ## Cocktail Sort
