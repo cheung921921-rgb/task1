@@ -22,7 +22,7 @@ Final sorted list: [1, 2, 3, 4, 5]
 
 ## Graph
 
-The script allows user to create a graph with 5 customized nodes and edges.  
+The script allows user to create a graph with 5 customized nodes and edges. And also with several function to use.  
 
 First, user have to enter the name of 5 nodes.  
 After that, user has to connect the nodes(Below image shows how it works), it can also not connected to any nodes.  
