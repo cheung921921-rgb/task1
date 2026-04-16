@@ -17,5 +17,5 @@ After backward pass: [1, 2, 3, 4, 5]
 After forward pass: [1, 2, 3, 4, 5]  
 Final sorted list: [1, 2, 3, 4, 5]  
 
-![Image fail to load](Task 2/photo/Cocktail_sort.PNG)  
+![Image fail to load](https://github.com/cheung921921-rgb/task1/blob/main/Task%202/photo/Cocktail_sort.PNG?raw=true)  
 
