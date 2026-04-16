@@ -20,12 +20,4 @@ After backward pass: [1, 2, 3, 4, 5]
 After forward pass: [1, 2, 3, 4, 5]  
 Final sorted list: [1, 2, 3, 4, 5]  
 
-Code explaination :  
 
-The code start at creating a function. Which is used for creating the starting point and the end point of the sorting. And also to create a boolean for determine whether the swapping should run or not.  
-
-The sorting start with forward passing(from start to end of the array), if the element i > larger than its next element i+1, they swap their position. Which means the larger number move backward. Until the largest number reaches the end of the array.  
-
-After that the sorting start at the end of the array and passing backward. As the End of the array has been sorted, end should -1, as well as the start -1 to include element 0. Same as the above, if element i > next element i+1, they swapped. Which means the smaller number swapped to the front as the loop is counting down.  
-
-Moreover, after each sorting, the processed array will be printed.  
